@@ -23,8 +23,7 @@ We formulate herbal synergy prediction as a **Node-Hyperedge Incidence Predictio
 ## 📦 Installation
 
 # Clone the repository
-git clone [https://github.com/yourusername/hypersynergy.git](https://github.com/yourusername/hypersynergy.git)
-cd hypersynergy
+git clone [[https://github.com//vothikimanh1007/DoTatLoi-714-MATG/hypersynergy.git](https://github.com/vothikimanh1007/DoTatLoi-714-MATG.git)] cd hypersynergy
 
 # Install dependencies
 pip install -r requirements.txt
