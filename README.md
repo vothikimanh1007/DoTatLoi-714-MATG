@@ -107,5 +107,3 @@ If you use this framework or the DoTatLoi-714 benchmark, please cite our work:
 ## 📧 Contact
 
 For dataset access or collaboration: vothikimanh@tdtu.edu.vn
-## 图片内容
-[检测到图片但LLM不可用，无法识别内容]
