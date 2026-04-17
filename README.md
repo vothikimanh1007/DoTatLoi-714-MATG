@@ -95,15 +95,8 @@ weights = predictor.get\_explainability\_weights(herb\_indices=[16, 22], formula
 
 ## 📖 Citation
 
-If you use this framework or the DoTatLoi-714 benchmark, please cite our work:
-
-@article{anh2026topological,
- title={Topological Knowledge Bridging: The DoTatLoi-714 Benchmark and a Heterogeneous Hypergraph Framework for Cross-Cultural Herbal Synergy Prediction},
- author={Vo Thi Kim Anh and Václav Snášel},
- journal={Under Review},
- year={2026}
-}
+If you use this framework or the DoTatLoi-714 benchmark, please cite our work: ...
 
 ## 📧 Contact
 
-For dataset access or collaboration: vothikimanh@tdtu.edu.vn
+For dataset access or collaboration:...
